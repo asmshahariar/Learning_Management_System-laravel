@@ -203,7 +203,6 @@
     </div>
 </div><!-- end tooltip_templates -->
 
-
 <!-- template js files -->
 <script src="{{ asset('frontend/js/jquery-3.4.1.min.js') }}"></script>
 <script src="{{ asset('frontend/js/bootstrap.bundle.min.js') }}"></script>
